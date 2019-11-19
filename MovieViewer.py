@@ -1,5 +1,3 @@
-# -*- coding:utf-8 -*-
-
 """
 Created on Dec. 12. 2018
 @author : koharite
